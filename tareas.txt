@@ -1,14 +1,15 @@
-Datos:
-- Añadir los datos desde el 2017. (Seba)
-- Aplicar umbral para cada tabla y variable. (Seba)
-- Crear columnas diferencia con umbral y porcentaje de diferencia. (Seba)
-- Replicar análisis de la Temperatura en las otras variables. (Paty)
-- Geopandas: regiones y rios/puntos de descarga (Mati)
+Variable (3 - Temperatura, Molibdeno y Mercurio ) -> Tabla (4) -> (20 termoeléctricas)
+* Comparar las gráficas para las distintas Tablas.
 
-Formato:
-- Título, fuentes y referencias, redacción, colores. (Bastián)
-- Textos explicativos. (Bastián)
-- Separación en etapas o secciones. (Mati)
+Fabián:
+- Contexto e hipotésis.
+- Descripción de variables.
 
-Visualización:
-- Tipo de gráfica que mejor se ajuste a los datos. (Fabián)
+Mati:
+- Gráficos.
+
+Seba:
+- Bullet chart.
+
+Todos:
+- Buscar los tipos de gráficos acordes al trabajo.
