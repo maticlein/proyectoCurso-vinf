@@ -13,4 +13,7 @@ El proyecto se presenta en dos archivos los cuales se encuentran en el directori
 - *ensayo_explicativo.ipynb* contiene el trabajo para el Proyecto de Curso de Visualización de la Información y presenta la hipótesis, los datos, las gráficas y las conclusiones.
 ## Ejecución
 Como la data procesada se encuentra en el repositorio, sólo es necesario ejecutar las celdas del notebook *ensayo_explicativo.ipynb*. Con esto podrá ver e interactuar con los gráficos.\
-**Nota:** La vista previa del notebook en GitHub no permite visualizar los gráficos interactivos.
+## Gráficos interactivos
+La vista previa del notebook en GitHub no permite visualizar los gráficos interactivos, por lo que se sugiere clonar el repositorio y ejecutarlo en local.\
+![map](../main/img/mapa.png)
+![sunburst_plot](../main/img/sunburst_plot.png)
